@@ -1,1 +1,1 @@
-export const baseUrl = "https://jongsuk-dev.click";
+export const baseUrl = "http://13.54.102.107:8080/";
