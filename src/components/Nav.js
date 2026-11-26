@@ -25,8 +25,8 @@ const Nav = () => {
         className="nav__logo"
       />
       <img
-        alt="User logged"
-        src="https://pbs.twimg.com/profile_images/1240119990411550720/hBEe3tdn_400x400.png"
+        alt="User profile"
+        src={`${process.env.PUBLIC_URL}/avatar.png`} 
         className="nav__avatar"
       />
     </nav>
